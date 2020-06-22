@@ -9,4 +9,5 @@ Deep neural networks have become increasingly popular in radar micro-Doppler cla
 Six participants of various ages, heights and weights were involved in this study. Three different sensors and a total of 11 diﬀerent activities and ambulatory gaits were considered, as listed in the Figure . The choice of these activities were motivated by smart environment applications, where monitoring of activities of daily living are required to support health monitoring and gesture recognition. Each participant conducted 10 repetitions of each activity, resulting in a total of 60 samples per class per sensor. Additionally, data previously acquired at an earlier date from the 24 GHz sensor was used to enrich the dataset with an additional 180 samples per class. All activities were conducted along the radar line-of-sight.
 
 ![alt text](https://github.com/ci4r/CI4R-Activity-Recognition-datasets/blob/master/sensors%20and%20activity%20list.png)
+![alt text](https://github.com/ci4r/CI4R-Activity-Recognition-datasets/blob/master/spectrogram.png)
 
